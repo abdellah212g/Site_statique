@@ -1,3 +1,8 @@
+# Video link https://www.youtube.com/watch?v=Wm6CUkswsNw 
+# Colors link https://colorhunt.co/palette/226158
+
+***************
+
 # Site_statique
  site statique similaire à celui en pièce jointe (Html5/Css3)
 
